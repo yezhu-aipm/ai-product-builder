@@ -3,6 +3,8 @@
 > 一位教培机构的 AI 产品经理（不写代码），和 AI 一起按 `ai-product-builder` 的 10 个阶段，从一份报告样张开始，做出了一个能在公网访问的多用户网站。
 >
 > 截图中的机构、校区、老师、学生和成绩**全部是虚构的示例数据**。
+>
+> 📦 产品源代码与安装包：**[yezhu-aipm/ai-report-assistant](https://github.com/yezhu-aipm/ai-report-assistant)**
 
 ---
 
